@@ -1,0 +1,19 @@
+local HintsInfoModule = {}
+
+-- CORE
+local Hints = 
+{
+	"UNLIKE OTHER GAMES OUR ITEMS ARE NOT GAMEPASSES",
+	"ALL ITEMS PURCHASED GO TO YOUR ROBLOX INVENTORY",
+	"THE GAME WILL CONTINUE LOADING HUNDREDS OF ASSETS",
+	"CLICK ON MANNEQUINS TO TRY THEM ON",
+	"TIME AND ROBUX SPENT ARE COMPETITIVE",
+}
+
+-- Functions
+-- DIRECT
+function HintsInfoModule.GetHints()
+	return Hints
+end
+
+return HintsInfoModule
