@@ -4,7 +4,7 @@
 
 Designed like a virtual shopping mall, the game emphasizes **fast client-side loading**, responsive UI, and realistic accessory previewing—without putting strain on servers.
 
-Built entirely within the :contentReference[oaicite:0]{index=0} ecosystem.
+Built entirely within the LuaU ecosystem.
 
 ---
 
